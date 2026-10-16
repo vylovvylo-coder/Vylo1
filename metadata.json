@@ -1,0 +1,10 @@
+{
+  "name": "StreamStudio Pro - OBS Studio Alternative",
+  "description": "أداة بث مباشر وتسجيل فيديو احترافية متكاملة تدعم إدارة المشاهد والمصادر، ميكسر صوت متقدم مع فلاتر DSP، ترميز NVENC وبث RTMP/SRT، وأدوات التنبيهات والشات.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
